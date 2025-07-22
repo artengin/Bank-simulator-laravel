@@ -21,7 +21,7 @@ trait BankMockTrait
     ): array {
         return $this->request(
             type: $type,
-            url: "https://api.dev.pillarbank.ronas.cloud{$uri}",
+            url: config('services.pillar_bank.url') . "{$uri}",
             data: $requestData,
             headers: [
                 'authorization' => config('services.pillar_bank.token_secret'),
