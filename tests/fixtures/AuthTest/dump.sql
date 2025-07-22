@@ -1,0 +1,2 @@
+INSERT INTO "users"(id, name, email, password, created_at, updated_at) VALUES
+  (1, 'Admin', 'admin@banksimulator.com', '$2y$12$q9wmYe5GxEKpZmEez725S.MuftQBdmHhCcW/4wdAh6AYyelwKDTE6', '2016-10-20 11:05:00', '2016-10-20 11:05:00');

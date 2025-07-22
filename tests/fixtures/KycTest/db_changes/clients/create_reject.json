@@ -1,0 +1,17 @@
+{
+    "updated": [],
+    "created": [
+        {
+            "id": 3,
+            "first_name": "John",
+            "last_name": "Doe",
+            "ssn": "111-11-1111",
+            "phone": "89009009090",
+            "email": "bob@example.com",
+            "status": "reject",
+            "created_at": "2018-11-11 11:11:11",
+            "updated_at": "2018-11-11 11:11:11"
+        }
+    ],
+    "deleted": []
+}

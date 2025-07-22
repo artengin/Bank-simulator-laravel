@@ -1,0 +1,16 @@
+{
+    "updated": [],
+    "created": [
+        {
+            "id": 1,
+            "name": "test",
+            "card_number": 7507297011021267,
+            "amount": 1,
+            "type": "outgoing",
+            "created_at": "2018-11-11 11:11:11",
+            "updated_at": "2018-11-11 11:11:11",
+            "initializer_id": 1
+        }
+    ],
+    "deleted": []
+}
