@@ -41,6 +41,7 @@ WEBHOOK_TRANSACTION_PILLARBANK_URL: [Pillar Bank](https://github.com/artengin/Pi
 
     - Retrieving a list of transactions for the authenticated user  
 `POST /transactions/{transaction_type}`
+  
 
 ### 📘 API Documentation  
 
@@ -48,5 +49,5 @@ WEBHOOK_TRANSACTION_PILLARBANK_URL: [Pillar Bank](https://github.com/artengin/Pi
 Powered by ronasit/laravel-swagger  
 
   
-  
+
 ![system overview bank simulator](storage/app/private/bank-simulator.png)
