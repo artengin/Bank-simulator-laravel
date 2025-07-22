@@ -47,5 +47,6 @@ WEBHOOK_TRANSACTION_PILLARBANK_URL: [Pillar Bank](https://github.com/artengin/Pi
 - Automatic API documentation generation  
 Powered by ronasit/laravel-swagger  
 
-
+  
+  
 ![system overview bank simulator](storage/app/private/bank-simulator.png)
