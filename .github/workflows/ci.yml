@@ -1,4 +1,4 @@
-name: Docker CI
+name: Tests
 
 on:
   push:
@@ -15,8 +15,6 @@ jobs:
     services:
       pgsql:
         image: bitnami/postgresql:17.4.0
-        ports:
-          - 5432:5432
         env:
           ALLOW_EMPTY_PASSWORD: "yes"
         options: >-
@@ -27,8 +25,6 @@ jobs:
 
       redis:
         image: bitnami/redis:7.4
-        ports:
-          - 6379:6379
         env:
           ALLOW_EMPTY_PASSWORD: "yes"
 
