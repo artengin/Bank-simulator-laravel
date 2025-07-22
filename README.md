@@ -1,4 +1,5 @@
 # Bank System Simulator - backend
+[![Actions Status](https://github.com/artengin/Bank-simulator-laravel/actions/workflows/ci.yml/badge.svg)](https://github.com/artengin/Bank-simulator-laravel/actions)  
 
 The Bank Simulator is a mock banking backend used to support the functionality of [Pillar Bank](https://github.com/artengin/Pillar-bank-laravel). It handles KYC verification and simulates financial transactions, enabling realistic integration and testing.
 
